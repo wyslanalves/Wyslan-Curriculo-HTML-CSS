@@ -44,10 +44,7 @@ a::before{
 }
 #button:hover{
     transform: scale(1.08);
-   
-    
 }
-h1:hover{
-    color: #f25a70;
-}
+
+
 
